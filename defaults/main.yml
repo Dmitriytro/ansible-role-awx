@@ -5,4 +5,4 @@ awx_version: devel
 awx_keep_updated: true
 awx_run_install_playbook: true
 postgres_data_dir: /var/lib/pgdocker
-awx_inventory: ./roles/tower/inventory
+awx_inventory: ~/Documents/repositories/ansible-marsnet/roles/tower/inventory
